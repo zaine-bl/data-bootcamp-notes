@@ -1,0 +1,5 @@
+    -“blast radius”: if something goes wrong, least privilege limits how much damage it can do. 
+With Editor, a bug or stolen credentials could delete every bucket, dataset and VM in the project. 
+With your 3 roles, the worst case is your one bucket and your one dataset.
+
+
